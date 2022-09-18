@@ -2,9 +2,9 @@
 #include "lists.h"
 
 /**
- * print_dlistint - Prints a doubly linkedlist of integers
+ * print_dlistint - Prints a Doubly linkedlist of integers
  *
- * @h: A pointer to the first element of a list
+ * @h: A Pointer to the first element of a list
  *
  * Return: The number of element printed
  */
